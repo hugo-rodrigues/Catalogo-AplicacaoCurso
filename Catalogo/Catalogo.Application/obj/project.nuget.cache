@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mSV4kXrAvR5XQke/HpX9woEelmlOKeG4gMqyNlDtTj6W1rmMEbfZnhcyRTIB657sOFM7be6cn0TADZmjnHwqng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hugo\\Downloads\\Catalogo_CleanArch\\Catalogo\\Catalogo.Application\\Catalogo.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hugo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Hugo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Hugo\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
